@@ -6,6 +6,8 @@ The editor lets you edit beats and beat patters visually and then generade an au
 
 Please read through the features, basic workflow and hints to get a better idea of how to use the editor.
 
+For developer setup and packaging instructions, see [Building Beatmeter Generator from source](BUILDING.md).
+
 ## Example Images
 
 ![example](https://gitlab.com/SklaveDaniel/BeatmeterGenerator/wikis/example3.png)
