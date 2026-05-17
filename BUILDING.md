@@ -34,7 +34,7 @@ If your distribution does not provide sbt, install it using the official sbt ins
 ## Clone the repository
 
 ```sh
-git clone <repository-url> beatmeter-generator
+git clone https://github.com/tomsegura2/beatmeter-generator.git
 cd beatmeter-generator
 ```
 
